@@ -1,0 +1,42 @@
+1
+Start Point
+This is the Beginning of the Demo Game... You are in a Room with two doors. One on the North with a bird on it, Another on the West with a Dog on it. You look around and see a ladder leading to a room upwards which can be pulled down
+You can either go NORTH, WEST, or UP the ladder.
+NORTH 3
+WEST 2
+UP 6
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2
+Crafts Room
+You go through the door with a Dog painting on it and enter a dark room. You turn on the light. The room is filled with paintings and different old crafts which are all dusty... The room has no windows and only one door (with a Cat Painting on it)
+You can only go EAST.
+EAST 1
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3
+Thorny Room
+You find yourself in a room whose walls are covered with thorns growing from every corner. There's a ladder hanging from the ceiling and one door with a Fish painting on it as the only exits. 
+You can either go UP the ladder or SOUTH to the door.
+SOUTH 1
+UP 4
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4
+Conservatory
+This is the Conservatory... The view is beautiful, you sit in awe for a couple of minutes and Relax. There are three exits in this room. A ladder going down, A door with a cat Painting which leads to the East , and A door with a Fish Painting on it leading to the South
+You can either go SOUTH, EAST, or DOWN the ladder.
+SOUTH 6
+EAST 5
+DOWN 3
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+5
+Attic
+You just entered a cramped up room. It must be the ATTIC... You crawl into the room and you see the room is actually bigger than it seemed...CONGRATULATIONS!!!! You reached the last room of the Game you get a Reward of 'CHIEF EXPLORER'
+You can only go WEST.
+WEST 4
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+6
+Storage Room
+You are currently in the Storage room... You see a bunch of miscellaneous tools and items. There is one door (With a bird on it) going North and a ladder going down
+You can either go NORTH, or DOWN the ladder.
+NORTH 4
+DOWN 1
++++++++++++++++++++++++++++++++++++++++++++++++++++++
